@@ -43,7 +43,7 @@ quack by Ivan Nikolsky & Imperator Vladimir GPL3 license
 <br>
 [whoami](https://github.com/omer-dogan/whoami) by [omer-dogan](https://github.com/omer-dogan) GPL3 license (<3)
 <br>
-[ChmodCalculator](https://github.com/ByCh4n-Group/ChmodCalculator) by [ByCh4n-Group](https://github.com/ByCh4n-Group) CC0-1.0 license
+[ChmodCalculator](https://github.com/ByCh4n-Group/ChmodCalculator) by [ByCh4n-Group](https://github.com/ByCh4n-Group) CC0-1.0 license (RiseToDev751 <3)
 <!-- [](https://github.com/) by [](https://github.com/) license -->
 <br>
 
