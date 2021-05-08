@@ -42,6 +42,8 @@ quack by Ivan Nikolsky & Imperator Vladimir GPL3 license
 [turkce-wordlist](https://github.com/utkusen/turkce-wordlist) by [utkusen](https://github.com/utkusen) no license
 <br>
 [whoami](https://github.com/omer-dogan/whoami) by [omer-dogan](https://github.com/omer-dogan) GPL3 license (<3)
+<br>
+[ChmodCalculator](https://github.com/ByCh4n-Group/ChmodCalculator) by [ByCh4n-Group](https://github.com/ByCh4n-Group) CC0-1.0 license
 <!-- [](https://github.com/) by [](https://github.com/) license -->
 <br>
 
