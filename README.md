@@ -1,5 +1,4 @@
-# bych4n_x86_64_main
-You can install these packages from the gmp.sh package installer script: https://github.com/ByCh4n-Group/gmp.sh
+# bych4n_x86_64_debian
 # Referances:
 [BruteX](https://github.com/1N3/BruteX) by [1N3](https://github.com/1N3) no license
 <br>
