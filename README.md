@@ -45,5 +45,6 @@ quack by Ivan Nikolsky & Imperator Vladimir GPL3 license
 [ChmodCalculator](https://github.com/ByCh4n-Group/ChmodCalculator) by [ByCh4n-Group](https://github.com/ByCh4n-Group) CC0-1.0 license (RiseToDev751 <3)
 <!-- [](https://github.com/) by [](https://github.com/) license -->
 <br>
+[Stranger](https://github.com/RiseToDev751/Stranger) by [RiseToDev751](https://github.com/RiseToDev751) GPL3 license  (RiseToDev751 <3)
 
 ![pakeet](http://www.pngmart.com/files/11/Blank-Package-PNG-Pic.png)
