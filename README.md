@@ -1,4 +1,14 @@
 # bych4n_debian
+## How To Add:
+
+```bash
+curl -s --compressed "https://bych4n-group.github.io/bych4n_debian/ubuntu/KEY.gpg" | sudo apt-key add -
+
+sudo curl -s --compressed -o /etc/apt/sources.list.d/bych4n_debian.list "https://bych4n-group.github.io/bych4n_debian/ubuntu/bych4n_debian.list"
+
+sudo apt update
+```
+
 # References:
 [BruteX](https://github.com/1N3/BruteX) by [1N3](https://github.com/1N3) no license
 <br>
