@@ -75,10 +75,10 @@ Essential: no
 Maintainer: AngelSecurityTeam
 Depends: python3,python3-pip,python3-requests,python3-colorama
 Filename: ./Cam-Hackers_1_x86_64.deb
-Size: 972148
-MD5sum: 79c4ce13ab1db463fa54592f0ad0a3d8
-SHA1: ce0318b47eeef0f325d1058fcb6af52a4d4cc858
-SHA256: 3c2751cd91ad4a7fc5cfad82f97381e5dbc0259aec73126f3f09a794ae4a1d0f
+Size: 972156
+MD5sum: d640e0a7b44e423d0db4918eebf44b8f
+SHA1: 47c5e5f278147d24c045dedc8dd9bf3de303efda
+SHA256: 6fbb954cd0f5c21b14491a88cce0dfdd3ca9b2f311f28ccfc2e37c5855fc379a
 Priority: optional
 Description: Hack Cameras CCTV FREE.
 
@@ -234,4 +234,46 @@ SHA1: a0e9b825d58aeb6d50725726e9934fe6a9c25376
 SHA256: c90ff8b1daf05ab34fa71aaf83f47a75fa2ea625b3df7f214844d1f1e61a33fb
 Priority: optional
 Description: Türk kullanıcıların parola seçimlerinin analizi için yapılmış bir çalışmadır.
+
+Package: userrecon
+Version: 1.0
+Architecture: all
+Essential: no
+Maintainer: linux_choice
+Depends: curl,bash
+Filename: ./userrecon_1.0_x86_64.deb
+Size: 15688
+MD5sum: babb697a0b12846131309311e37300da
+SHA1: 5ff0bc486743cc20993a2af4c20feef5cc8db3a5
+SHA256: 470b1f0a959bb00e2f27d3de6fa45c20fae3aaff79555223c34eeec880eb0cc5
+Priority: optional
+Description: Find usernames across over 75 social networks This is useful if you are running an investigation to determine the usage of the same username on different social networks.
+
+Package: whoami-beta
+Version: 1.4.1
+Architecture: all
+Essential: no
+Maintainer: Ömer Doğan
+Depends: tor,curl,python,network-manager,firefox
+Filename: ./whoami_1.4.1_x86_64.deb
+Size: 7360
+MD5sum: 3cda8aef8c67b5c45058a2929163c90a
+SHA1: b17aaa0b0847a8a3674468a3666421f291cb7ce4
+SHA256: d1162e2620eae115dcccf40349d4d8b4fdff61c376f61b735d03378ac00c0f6f
+Priority: optional
+Description: Whoami is a Linux privacy tool developed to keep you anonymous at the highest level.
+
+Package: zphisher
+Version: 2.1
+Architecture: all
+Essential: no
+Maintainer: htr-tech
+Depends: curl,php,wget,unzip
+Filename: ./zphisher_2.1_x86_64.deb
+Size: 9336732
+MD5sum: 0dbf3a0a318364c45ffdefe631d7fbdb
+SHA1: 2de451b7d1516397e2da083e7962a9c1a9390751
+SHA256: 0de5f00c3833934be9fa19749beb5b1b270a0eb5c40240e04517533e2a34161b
+Priority: optional
+Description: An automated phishing tool with 30+ templates.
 
