@@ -1,4 +1,4 @@
-# bych4n_x86_64_debian
+# bych4n_debian
 # References:
 [BruteX](https://github.com/1N3/BruteX) by [1N3](https://github.com/1N3) no license
 <br>
@@ -46,4 +46,4 @@ quack by Ivan Nikolsky & Imperator Vladimir GPL3 license
 <br>
 [Stranger](https://github.com/RiseToDev751/Stranger) by [RiseToDev751](https://github.com/RiseToDev751) GPL3 license  (RiseToDev751 <3)
 
-![pakeet](http://www.pngmart.com/files/11/Blank-Package-PNG-Pic.png)
+![image](https://user-images.githubusercontent.com/54551308/122655363-711e3900-d15a-11eb-815b-08bd7f62bf87.png)
