@@ -1,0 +1,237 @@
+Package: CloudUnflare
+Version: 1
+Architecture: all
+Essential: no
+Maintainer: greycatz
+Depends: dnsutils,curl,whois
+Filename: ./CloudUnflare.deb
+Size: 2736
+MD5sum: 2527eb14e246c9536f48d8dc05631019
+SHA1: db196e7a566daff57b120958cf6e122b2eac4b77
+SHA256: 7b5bf9403735184341fe6d4b87efc655be35cb442e0046614c08f18ffb87af4e
+Priority: optional
+Description: Reconnaissance Real IP address for Cloudflare Bypass.
+
+Package: admin-panel-sniffer
+Version: 1
+Architecture: all
+Essential: no
+Maintainer: MonroCoury
+Depends: python3
+Filename: ./admin-panel-sniffer_1_x86_64.deb
+Size: 29740
+MD5sum: db915290937533361515de5142471c86
+SHA1: 2661e515212f403a690fa51203ea8a64d107c701
+SHA256: 67dc1648c529a73e91f9e207ae21c46f3d465a106e3d97c4b63130b947d0582e
+Priority: optional
+Description: A powerful admin login page finder in python.
+
+Package: autoroot
+Version: 4.2
+Architecture: all
+Essential: no
+Maintainer: nilotpalbiswas
+Depends: wget,gcc,make,cmake
+Filename: ./Auto-Root-Exploit_4.2_x86_64.deb
+Size: 5472
+MD5sum: e2c8212caa69e6ec9e854d9c0495adb4
+SHA1: 987c3c6c360c8f2edb559bf9ee38f2ad19190297
+SHA256: 6525cd0c288104c44fd0d7b5bfc9c40e6efe6b957aeff4242d26cec8a0885e77
+Priority: optional
+Description: Auto Root Exploit Tool.
+
+Package: bashark
+Version: 2.0
+Architecture: all
+Essential: no
+Maintainer: redcode-labs
+Depends: curl,python,ruby,php,netcat,perl,wget,awk,gcc
+Filename: ./Bashark_2.0_x86_64.deb
+Size: 614520
+MD5sum: 1c1c97493e9391abfab785d5c6cc5c97
+SHA1: fbd656e0ebc16f53c9fce4184be0377a99a57531
+SHA256: 8bdadb6e62ac71935c9f8eaaa70c083900478ed3f21dd504a0b7eb9f65974ff3
+Priority: optional
+Description: Bash post exploitation toolkit.
+
+Package: brutex
+Version: 2.2
+Architecture: all
+Essential: no
+Maintainer: xer0dayz
+Depends: nmap,hydra,dnsenum
+Filename: ./BruteX_2.2_x86_64.deb
+Size: 38256
+MD5sum: 9c2b54efeca6d5e195f21b671834c56b
+SHA1: f35eca27ea0901e56978a4d64e6e1ac7c0c0fe85
+SHA256: 5e6d803724e7ca6d1843200cf165b4a4750d3b59c06318042f83cc1709d205e3
+Priority: optional
+Description: Automatically brute force all services running on a target.
+
+Package: camhackers
+Version: 1
+Architecture: all
+Essential: no
+Maintainer: AngelSecurityTeam
+Depends: python3,python3-pip,python3-requests,python3-colorama
+Filename: ./Cam-Hackers_1_x86_64.deb
+Size: 972148
+MD5sum: 79c4ce13ab1db463fa54592f0ad0a3d8
+SHA1: ce0318b47eeef0f325d1058fcb6af52a4d4cc858
+SHA256: 3c2751cd91ad4a7fc5cfad82f97381e5dbc0259aec73126f3f09a794ae4a1d0f
+Priority: optional
+Description: Hack Cameras CCTV FREE.
+
+Package: instashell
+Version: 1.5.4
+Architecture: all
+Essential: no
+Maintainer: thelinuxchoice
+Depends: tor,openssl,curl
+Filename: ./instashell_1.5.4_x86_64.deb
+Size: 140652
+MD5sum: 7247bac651b4d46d3aeaccace7ef0f8f
+SHA1: 127419f55967cf3c439408d306681282ee52945c
+SHA256: f4dd817fa69094b84bd4641cbc4482cb68838a797aa40aec1841c9864e125dc0
+Priority: optional
+Description: Instashell is an Shell Script to perform multi-threaded brute force attack against Instagram, this script can bypass login limiting and it can test infinite number of passwords with a rate of +400 passwords/min using 20 threads.
+
+Package: ip-tracer
+Version: 1.0
+Architecture: all
+Essential: no
+Maintainer: rajkumardusad & Aex Software's
+Depends: bash,php
+Filename: ./IP-Tracer_3.0_x86_64.deb
+Size: 71132
+MD5sum: 4f67e24a5e20f7bf5735552dea049649
+SHA1: e113935c279cd19684803f96fde9b35d79697df4
+SHA256: 74e1889e59e95b20ee3d47e8ffeb5c9b70710bbbe3f7c8acfc3975bd03534afc
+Priority: optional
+Description: Track any ip address with IP-Tracer. IP-Tracer is developed for Linux and Termux. you can retrieve any ip address information using IP-Tracer.
+
+Package: kickthemout
+Version: 2.0
+Architecture: all
+Essential: no
+Maintainer: Nikolaos Kamarinakis & David Schütz.
+Depends: python3,python3-pip,python3-scapy,python3-nmap,python3-netifaces
+Filename: ./kickthemout_2.0_x86_64.deb
+Size: 41800
+MD5sum: 630b4eb4ebd7cf7a9a374774ff3f9589
+SHA1: 867e7d63ebf4644385b7a6a3d4cdae9d163e9e1c
+SHA256: 8d8700d1ab03223e07462ca65389097ef33a0679e8c037117804f66d4ea88c68
+Priority: optional
+Description: zzz Kick devices off your network by performing an ARP Spoof attack.
+
+Package: osif
+Version: 4.0
+Architecture: all
+Essential: no
+Maintainer: CiKu370
+Depends: python,wget,curl,tar,bash
+Filename: ./OSIF_1_x86_64.deb
+Size: 19272
+MD5sum: 7d9548fcb2e259c7cc46ce013c8ef333
+SHA1: a74d3be0353f721619c9faefe67f75a5a905847d
+SHA256: fd2379cb248b3039d313c1c028670cc663d313bc4789ca85b6ac803d2dadc6c8
+Priority: optional
+Description: Open Source Information Facebook.
+
+Package: pwnedornot
+Version: 1.2.8
+Architecture: all
+Essential: no
+Maintainer: thewhiteh4t
+Depends: python3,python3-pip,python3-requests
+Filename: ./pwnedOrNot_1.2.8_x86_64.deb
+Size: 5300
+MD5sum: f2959fbb3d105cbe88e385ce2270b415
+SHA1: 040bb204f855f39e38f4270f218193f27cb7cab4
+SHA256: afd2c860f5a1894de9aa1b8448b0efbf76999a27291f834d639514d2ce53872a
+Priority: optional
+Description: OSINT Tool for Finding Passwords of Compromised Email Addresses.
+
+Package: quack
+Version: 2.0
+Architecture: all
+Essential: no
+Maintainer: Ivan Nikolsky & Imperator Vladimir
+Depends: python3,python3-pip,python3-phonenumbers,python3-requests,python3-setuptools,python3-scapy,wget
+Filename: ./quack_2.0_x86_64.deb
+Size: 286504
+MD5sum: efeca0c905a391de9acb325c0a62c321
+SHA1: 72c8f55be264663d66a8e5574b2ffbedfaafdfb8
+SHA256: 3c0dc009cb8d9d7ca9627f090eea05413510c3f0bb2b165909c218ad5a5becf9
+Priority: optional
+Description: Quack Toolkit is a set of tools to provide denial of service attacks. Quack Toolkit includes SMS attack tool, HTTP attack tool and many other attack tools.
+
+Package: shellphish
+Version: 1.1
+Architecture: all
+Essential: no
+Maintainer: suljot
+Depends: php,wget,unzip,curl
+Filename: ./shellphish_1.1_x86_64.deb
+Size: 2136460
+MD5sum: 34d7338c8ae3a41b6f3e8be97f7c1989
+SHA1: 67843d8b0795ab5f7b9ddd1c0809311b19a81e3e
+SHA256: 7d355fc89bb22cc84578db06f903fcfa6ff2c70b24c0eb4915c753ea11de1dcf
+Priority: optional
+Description: Phishing Tool for Instagram, Facebook, Twitter, Snapchat, Github.
+
+Package: socialphish
+Version: 1.6
+Architecture: all
+Essential: no
+Maintainer: xHak9x
+Depends: php,curl,ssh,unzip,wget,bash
+Filename: ./SocialPhish_1.6_x86_64.deb
+Size: 6107460
+MD5sum: f30a6e3ee663653556dcca3eb836b5a9
+SHA1: 08d4df65b483aaf6341a21960830cea19b58e7df
+SHA256: bcbef43bb9c1f7e9ef514d75eb3b6dceee850d311204f74ad0caa17ce041e4f3
+Priority: optional
+Description: The most complete Phishing Tool, with 32 templates +1 customizable.
+
+Package: spamwa
+Version: 1
+Architecture: all
+Essential: no
+Maintainer: krypton-byte
+Depends: python3,python3-pip,python3-requests
+Filename: ./SpamWa_1_x86_64.deb
+Size: 12100
+MD5sum: fe195b21f3cb2601f2ee9ca0378c0202
+SHA1: b417a070ddeb0fb2df9d4cdf5d03ad0ef0cc895c
+SHA256: 48e4dce2178f76ba842873b030be9ed8333274466350b430ead786d6f65f885b
+Priority: optional
+Description: Spam Sms Whatsapp
+
+Package: torghost-opensource
+Version: 3.1.1
+Architecture: all
+Essential: no
+Maintainer: SusmithKrishnan
+Depends: python3,tor,python3-pip,python3-requests,cython3,python3-stem
+Filename: ./torghostopensource_3.1.1_x86_64.deb
+Size: 3416
+MD5sum: a3b501ebced6661fe5e3cabb28fac810
+SHA1: d3f2a807377ed89ba55a22408e9586bd0690552b
+SHA256: a071264e4b84c367c83701a228406134de5e3247c254531483de400a8cce9f11
+Priority: optional
+Description: TorGhost is an anonymization script. TorGhost redirects all internet traffic through SOCKS5 tor proxy. DNS requests are also redirected via tor, thus preventing DNSLeak. The scripts also disables unsafe packets exiting the system. Some packets like ping request can compromise your identity.
+
+Package: turkcewordlistbyutkusen
+Version: 2
+Architecture: all
+Essential: no
+Maintainer: utkusen
+Filename: ./turkce-wordlist-by-utku-abe_1_x86_64.deb
+Size: 32178352
+MD5sum: 8daea00be102b18fee8e752aa155c4ea
+SHA1: a0e9b825d58aeb6d50725726e9934fe6a9c25376
+SHA256: c90ff8b1daf05ab34fa71aaf83f47a75fa2ea625b3df7f214844d1f1e61a33fb
+Priority: optional
+Description: Türk kullanıcıların parola seçimlerinin analizi için yapılmış bir çalışmadır.
+
