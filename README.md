@@ -56,4 +56,6 @@ quack by Ivan Nikolsky & Imperator Vladimir GPL3 license
 <br>
 [Stranger](https://github.com/RiseToDev751/Stranger) by [RiseToDev751](https://github.com/RiseToDev751) GPL3 license  (RiseToDev751 <3)
 
+##IMPORTANT DISCLOSURE: The tools in this repository do not belong to the bych4n team, their maintainers(authors) and original sources are mentioned above on reference.
+
 ![image](https://user-images.githubusercontent.com/54551308/122655363-711e3900-d15a-11eb-815b-08bd7f62bf87.png)
