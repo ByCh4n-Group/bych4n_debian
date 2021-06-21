@@ -10,7 +10,7 @@ sudo apt update
 ```
 
 # References:
-[BruteX](https://github.com/1N3/BruteX) by [1N3](https://github.com/1N3) no license
+[BruteX](https://github.com/1N3/BruteX) by [xer0dayz](https://github.com/xer0dayz) no license
 <br>
 [CloudUnflare](https://github.com/greycatz/CloudUnflare) by [greycatz](https://github.com/greycatz) no license
 <br>
