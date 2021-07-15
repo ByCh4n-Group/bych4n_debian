@@ -74,10 +74,10 @@ Architecture: all
 Essential: no
 Maintainer: ByCh4n
 Filename: ./bych4n-wallpapers-deb.deb
-Size: 1779300
-MD5sum: fb13eb18a26d0fe75efd31482d78306e
-SHA1: 467d58b1f1b29341013850be9143c11933c7b0f6
-SHA256: 2b4418cf7e2c2b50c56c615617264a50dcd04f3379905e24bc7a6fcd97bef861
+Size: 3255584
+MD5sum: 3f80a07df3c349d02e5f4777b9371011
+SHA1: db6a7f9db2dbaee483b2b34ede54b428c723a848
+SHA256: b1ae15a83f59e018dd1d7f7d969303a6b27b3bd62f99686ed083f9b00a49d93a
 Priority: optional
 Description: bych4n wallpapers
 
