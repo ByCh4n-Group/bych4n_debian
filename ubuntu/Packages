@@ -68,6 +68,19 @@ SHA256: 5e6d803724e7ca6d1843200cf165b4a4750d3b59c06318042f83cc1709d205e3
 Priority: optional
 Description: Automatically brute force all services running on a target.
 
+Package: bych4n-wallpapers
+Version: 1.0.0
+Architecture: all
+Essential: no
+Maintainer: ByCh4n
+Filename: ./bych4n-wallpapers-deb.deb
+Size: 1779300
+MD5sum: fb13eb18a26d0fe75efd31482d78306e
+SHA1: 467d58b1f1b29341013850be9143c11933c7b0f6
+SHA256: 2b4418cf7e2c2b50c56c615617264a50dcd04f3379905e24bc7a6fcd97bef861
+Priority: optional
+Description: bych4n wallpapers
+
 Package: camhackers
 Version: 1
 Architecture: all
